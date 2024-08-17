@@ -8,7 +8,7 @@
 
 ### HTML
 
-- Le HTML est déjà écrit.
+- Le HTML est déjà écrit
 
 ---
 
