@@ -1,0 +1,42 @@
+.block-element{
+    width: 250px;
+    height: 120px;
+    margin: 15px;
+    padding: 20px;
+    border: 3px solid rgb(135, 11, 250);
+    background-color: rgb(124, 221, 124);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.inline-block-element{
+    width: 200px;
+    height: 90px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid orangered;
+    background-color: rgb(248, 127, 212);
+    color: rgb(1, 1, 29);
+    font-size: 18px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.5);
+
+}
+.inline-element{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid maroon;
+    background-color: rgb(175, 175, 124);
+    color: rgb(6, 37, 6);
+    font-size: 16px;
+    font-style: italic;
+
+
+}
+p{
+    background-color: rgb(53, 51, 51);
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
