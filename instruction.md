@@ -1,4 +1,4 @@
-# CSS DE BASE 2
+# CSS DE BASE
 
 ---
 
